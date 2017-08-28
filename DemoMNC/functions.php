@@ -6,7 +6,7 @@ class Users
 	
 	public function user_profile($id)
 	{
-	
+		// Edit the MySQL Credentials accordingly.
 		$db     =    "defencely_lab";
 		$host   =    "localhost";
 		$user   =    "root";
@@ -28,10 +28,7 @@ class Users
     	
     	}
 	
-
 	}
 }
-
-
 
 ?> 
