@@ -1,0 +1,3 @@
+S'import os\nos.system("uname -a; ls -la")\n'
+p1
+.
